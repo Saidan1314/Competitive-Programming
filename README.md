@@ -1,2 +1,2 @@
 # Competitive-Programming
-Optimized solutions to CSES, Project Euler and Codeforces problems encountered iduring my competitive programming journey.
+Optimized solutions to CSES, Project Euler and Codeforces problems encountered during my competitive programming journey.
