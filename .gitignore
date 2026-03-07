@@ -1,0 +1,18 @@
+# Ejecutables compilados
+*.exe
+*.out
+*.app
+
+# Archivos de objeto y librerías
+*.o
+*.a
+*.so
+
+# Carpetas de configuración de editores (VS Code, CLion)
+.vscode/
+.idea/
+cmake-build-debug/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
