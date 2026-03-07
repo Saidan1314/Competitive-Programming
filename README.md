@@ -8,7 +8,7 @@ Each file includes:
 * **The Implementation:** Clean and optimized C++ code.
 * **The Insight:** A detailed explanation of my approach, mathematical observations, and complexity analysis.
 
-### 🛠 Platforms & Topics
+###  Platforms & Topics
 **Platforms:**
 - [Codeforces](https://codeforces.com/profile/xSaidanMka)
 - [Project Euler](https://projecteuler.net/)
@@ -21,7 +21,7 @@ Each file includes:
 - **Combinatorics & Counting**
 - **etc..**
 
-### 📊 Stats
+###  Stats
 | Platform | Problems Solved |
 | :--- | :---: |
 | **Codeforces** | 0 |
