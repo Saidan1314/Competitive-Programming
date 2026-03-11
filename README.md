@@ -26,7 +26,7 @@ Each file includes:
 | :--- | :---: |
 | **Codeforces** | 0 |
 | **CSES** | 0 |
-| **Project Euler** | 4 |
+| **Project Euler** | 8 |
 
 ---
 *"Mathematics is the language in which God has written the universe."*
