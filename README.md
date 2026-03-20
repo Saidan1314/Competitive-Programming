@@ -24,9 +24,9 @@ Each file includes:
 ###  Stats
 | Platform | Problems Solved |
 | :--- | :---: |
-| **Codeforces** | 0 |
+| **Codeforces** | 1 |
 | **CSES** | 0 |
-| **Project Euler** | 8 |
+| **Project Euler** | 11 |
 
 ---
 *"Mathematics is the language in which God has written the universe."*
